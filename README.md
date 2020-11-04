@@ -1,0 +1,1 @@
+## streaming calculator on generators
